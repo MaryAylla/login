@@ -1,0 +1,1 @@
+Este projeto consiste em uma tela de login com campos de usuário, senha, e outros campos criada para treinar a criação de formulários e estilização com CSS. Embora simples, ele simula uma etapa essencial de muitos sistemas web, permitindo o aprendizado prático de elementos como inputs, botões, validação básica e alinhamento de layout.
